@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Software Development enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/aman0710/aman0710/blob/main/programmer.gif">
 
 
 - 👦 I am Aman Kumar and I'm from Jamshedpur.
