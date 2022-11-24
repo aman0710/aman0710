@@ -6,6 +6,7 @@
 - 👦 I am Aman Kumar and I'm from Jamshedpur.
 - 🧑‍🎓 I am final year student at IIT (BHU), Varanasi.
 - ❤️ I am interested in Competitive Programming and Web Development.
+- ⚡ Experience : Former SDE intern at Digit Insurance, Bengaluru.
 
 <h2> ⚙️ Skills </h2>
 
